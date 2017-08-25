@@ -23,3 +23,10 @@ There is an optional command line argument which is a kind of flag which tells t
 ```
   python crawler.py https://www.example_url.com True
  ```
+ ## Contributing
+ 
+ Anyone is open to contributing but please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+ 
+ ## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
